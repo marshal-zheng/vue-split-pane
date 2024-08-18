@@ -78,6 +78,18 @@ Or Hybrid
   </SplitPane>    
 </template>
 
+<script>
+import SplitPane, { Pane } from '@marsio/vue-split-pane';
+
+export default {
+  components: {
+    SplitPane,
+    Pane
+  }
+}
+</script>
+```
+
 Or Nested
 
 ```vue

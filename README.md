@@ -6,7 +6,7 @@ See the example and associated code in [ExampleLayout](/example/example.js)
 
 ![split-pane-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e139017e-3801-4c59-b6c9-8cb1083ab449)
 
-[**[Demo](http://110.41.33.162:9005/) | [Changelog](/CHANGELOG.md) | [View Example](/example/example.js)**]
+[**[Demo](https://marsio.top/vue-split-pane/) | [Changelog](/CHANGELOG.md) | [View Example](/example/example.js)**]
 
 ## Quick Start
 
